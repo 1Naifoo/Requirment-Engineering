@@ -1,2 +1,4 @@
-# Requirment-Engineering
-Game Chronicles is an innovative cross-platform game tracking application designed to empower gamers in managing their game libraries, tracking progress, and analyzing playtime trends
+# Software Requirements Specification for Game Chronicles
+Game Chronicles is an innovative cross-platform game tracking application designed to empower gamers in managing their game libraries, tracking progress, and analyzing playtime trends. By integrating with platforms like Xbox Live, PlayStation Network, and Steam, it provides seamless synchronization and insights into gaming habits. Key features include progress tracking, in-game achievements, playtime analytics, and data visualization, all available through user-friendly web and mobile interfaces.
+
+Built with scalability, security, and user engagement in mind, Game Chronicles serves casual and professional gamers, reviewers, and content creators. The project showcases expertise in software requirements engineering, API integration, and user-centric design.
